@@ -12,10 +12,11 @@
 .roseform {
     height: 5em;
     background-color: #E579E6;
+    margin: auto;
 }
 
 /*      IMPOSTAZIONE DEL MAIN       */
-.clearfix::table{
+.clearfix::after{
     content:'';
     display: table;
     clear: both;
@@ -27,7 +28,7 @@
     background-color: #E1D67A;
 }
 
-.azurewindows {
+.azurewindows,.float {
     background-color: #ABCFE7;
 }
 
@@ -38,6 +39,7 @@
 .frontone {
     height: 5em;
     border: 5px solid #00aeff;
+    
 }
 
 .columnsx, .columndx {
