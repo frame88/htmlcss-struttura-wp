@@ -4,3 +4,31 @@
     box-sizing: border-box;
 }
 
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.roseform {
+    height: 5em;
+    background-color: #E579E6;
+}
+
+/*      IMPOSTAZIONE DEL MAIN       */
+.clearfix::table{
+    content:'';
+    display: table;
+    clear: both;
+}
+
+.sand-box {
+    height: 10em;
+    width: auto;
+    background-color: #E1D67A;
+}
+
+.purpleform {
+    height: 5em;
+    background-color: blueviolet;
+}
+
