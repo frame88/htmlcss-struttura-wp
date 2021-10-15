@@ -38,7 +38,7 @@
     float: left;
 }
 
-.frontone {
+.pediment {
     height: 5em;
     border: 5px solid #228fff;
     
@@ -50,7 +50,7 @@
     border: 5px solid #228fff;
 }
 
-.ingresso {
+.entry {
     height: 30em;
     width: 70%;
     border: 5px solid #228fff;
