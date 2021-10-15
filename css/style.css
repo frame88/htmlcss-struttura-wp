@@ -30,12 +30,9 @@
     margin-bottom: 25px;
 }
 
-main{
-  background-color: #228fff
-}
-
 .azurewindows,.float {
-    background-color: #ABCFE7;
+    background-color: rgba(8, 68, 233, 0.931);
+    position:relative;
 }
 
 .float {
@@ -43,19 +40,31 @@ main{
 }
 
 .pediment {
+    background-color: #ABCFE7;
     height: 5em;
-
 }
 
 .columnsx, .columndx {
     height: 30em;
-    width: 13.6%;
-    margin: 5px;
+    width: 14%;
+}
+
+.columnsx {
+    background-color: #ABCFE7;
+    margin-top: 5px;
+}
+
+.columndx{
+    background-color: #ABCFE7;
+    margin: 5px 0 5px 5px;
+    position: absolute;
+    right: 0;
 }
 
 .entry {
+    background-color: #ABCFE7;
     height: 30em;
-    width: 70%;
+    width: 71%;
     margin: 5px;
 }
 /* {
