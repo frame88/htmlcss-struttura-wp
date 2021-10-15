@@ -30,6 +30,10 @@
     margin-bottom: 25px;
 }
 
+main{
+  background-color: #228fff
+}
+
 .azurewindows,.float {
     background-color: #ABCFE7;
 }
@@ -40,20 +44,19 @@
 
 .pediment {
     height: 5em;
-    border: 5px solid #228fff;
-    
+
 }
 
 .columnsx, .columndx {
     height: 30em;
-    width: 15%;
-    border: 5px solid #228fff;
+    width: 13.6%;
+    margin: 5px;
 }
 
 .entry {
     height: 30em;
     width: 70%;
-    border: 5px solid #228fff;
+    margin: 5px;
 }
 /* {
     height: 20em;
@@ -70,4 +73,3 @@
     margin-top: 10px;
     margin-bottom: 25px;
 }
-
